@@ -1,0 +1,31 @@
+1) How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+    I've used the FC command in the windows cmd to compare two javascript files.  The FC command is useful (I could also have used the diff command in Git Bash).   Perhaps, a more elaborate tool would be better.  For example, a tool the colour codes any differences.
+
+2) How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    If you accidentally delete current file, you can always retrieve the file in its previous version.  You can track previous changes to understand how you have arrived at the current version.
+
+3) What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+    Pros: You can save the code when it makes most sense to do so.  
+    Cons: You forget! Risk of forgetting to make commits when you need to.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	Git has been designed for programmers in mind, so it makes sense to save multiple files in one commit.  Google Docs has been designed to be a general-purpose document repository.
+
+    
+How can you use the commands git log and git diff to view the history of files?
+
+    git log lists all commits.
+    git diff compares two specified commits
+
+How might using version control make you more confident to make changes that could break something?
+
+    By means of command "git checkout", you can go back to previous versions and back again to original version, if you like.
+    Hence it is less risky.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Try, for example, to test if command "subl" can launched from Git Bash.
