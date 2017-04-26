@@ -1,0 +1,13 @@
+
+1) What happens when you initialize a repository? Why do you need to do it?
+
+The metadata directory .git is created.  Without initialization there can
+be no version control.
+
+2) How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is a temporary storage area for files you would like to
+commit.  The staging area allows you to commit one logical change at a
+time.
+
+3)
