@@ -3,3 +3,18 @@
 When you want to share your finished work.
 When you are collaborating with others on the same project.
 As a way to back up your work in case the local directory is damaged.
+
+2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+If you share work on GitHub with other colleagues, you might not want to pull down automatically every single change your colleauges
+are making.
+
+3) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+   - separate languages
+   - master mode
+   - test modes
+   - different teams
+
+4) How do the diagrams help you visualize the branch structure?
+
+You can see when you branch off in a different direction and which commits were made on the new branch.   
