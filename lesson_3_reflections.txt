@@ -18,3 +18,8 @@ are making.
 4) How do the diagrams help you visualize the branch structure?
 
 You can see when you branch off in a different direction and which commits were made on the new branch.   
+
+5) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+You combine the commits of both branches, arranged according to date.  You remove the coins label, as master
+contains both sets of commits.
