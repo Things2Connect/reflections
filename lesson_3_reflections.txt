@@ -23,3 +23,7 @@ You can see when you branch off in a different direction and which commits were 
 
 You combine the commits of both branches, arranged according to date.  You remove the coins label, as master
 contains both sets of commits.
+
+6) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+It makes things easier and faster.
