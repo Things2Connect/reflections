@@ -27,3 +27,5 @@ contains both sets of commits.
 6) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
 It makes things easier and faster.
+
+(more text addeded)
