@@ -17,7 +17,7 @@ are making.
 
 4) How do the diagrams help you visualize the branch structure?
 
-You can see when you branch off in a different direction and which commits were made on the new branch.   
+You can see when you branch off in a different direction and which commits were made on the new branch.
 
 5) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
@@ -29,3 +29,5 @@ contains both sets of commits.
 It makes things easier and faster.
 
 (more text addeded)
+
+7) More text is being added to this file....
