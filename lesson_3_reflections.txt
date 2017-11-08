@@ -30,4 +30,6 @@ It makes things easier and faster.
 
 (more text addeded)
 
-7) More text is being added to this file....
+7) More text about the benefits of Git
+
+8) Further text to be added here
