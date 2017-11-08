@@ -10,4 +10,4 @@ Staging area is a temporary storage area for files you would like to
 commit.  The staging area allows you to commit one logical change at a
 time.
 
-3)
+3)  Add some more data here...
