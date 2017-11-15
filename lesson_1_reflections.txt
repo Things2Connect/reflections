@@ -31,4 +31,4 @@ Now that you have your workspace set up, what do you want to try using Git for?
     Try, for example, to test if command "subl" can launched from Git Bash.
 
 
-4) Add some more text here...    
+4) I have still unanswered questions regarding Git
