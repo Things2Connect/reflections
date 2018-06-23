@@ -33,3 +33,5 @@ It makes things easier and faster.
 7) More text about the benefits of Git
 
 8) Further text to be added here
+
+9) Even more text to be added here and so forth
